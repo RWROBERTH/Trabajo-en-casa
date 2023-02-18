@@ -1,0 +1,18 @@
+algoritmo edad_Mayor
+definir  n1, n2, n3, n4, n5, n6, n7, n8, 1, como entero;
+escribir "Escribe tu Dia de nacimiento";
+leer n1;
+escribir "Escribe tu Mes de nacimiento";
+leer n2;
+escribir "Escribe tu Año de nacimiento";
+leer n3;
+escribir "Escribe el Día Actual";
+leer n4; 
+escribir "Escribe el Mes Actual";
+leer n5;
+escribir "Escribe el Año Actual";
+leer n6;
+n7<- n6-n3;
+si n2 == n5 entonces;
+escribir n7<- n7-1;
+finalgoritmo
